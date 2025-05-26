@@ -73,20 +73,6 @@ language-detection-ml/
 └── requirements.txt
 🚀 How to Run
 Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/language-detection-ml.git
-cd language-detection-ml
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the notebook:
-
 Open language_detection.ipynb in Jupyter
 
 Follow the steps for training and testing
